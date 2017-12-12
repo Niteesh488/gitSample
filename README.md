@@ -1,1 +1,1 @@
-# gtiSample
+# gitSample
